@@ -1,0 +1,6 @@
+{
+  "name": "AI Study",
+  "description": "Smarter study platform with AI features",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
